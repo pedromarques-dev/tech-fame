@@ -1,0 +1,23 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Descoberta revolucionária no campo da medicina: Cientistas desenvolvem terapia inovadora para combater o envelhecimento celular",
+            "description": "Pesquisadores de uma renomada instituição médica anunciaram hoje uma descoberta significativa no campo da medicina anti-envelhecimento. Uma terapia inovadora foi desenvolvida para combater o envelhecimento celular, abrindo portas para potenciais avanços no tratamento de uma variedade de doenças relacionadas à idade. Os cientistas afirmam que essa descoberta pode ter implicações profundas na extensão da expectativa de vida saudável.",
+            "createdAt": "28/11/2023"
+        },
+        {
+            "id": 2,
+            "title": "Empresa de tecnologia lança dispositivo revolucionário para combater a poluição do ar em ambientes urbanos",
+            "description": "Uma empresa líder em tecnologia anunciou o lançamento de um dispositivo inovador projetado para combater a poluição do ar em ambientes urbanos. O dispositivo utiliza uma tecnologia avançada de purificação do ar, prometendo melhorar significativamente a qualidade do ar em espaços fechados e ao ar livre. Especialistas acreditam que essa inovação pode ter um impacto positivo na saúde pública, reduzindo os riscos associados à poluição atmosférica.",
+            "createdAt": "28/11/2023"
+        },
+        {
+            "id": 3,
+            "title": "Exploração espacial atinge novo marco: Nave espacial realiza a primeira missão tripulada a Marte",
+            "description": " Em um feito histórico para a exploração espacial, uma nave espacial tripulada completou com sucesso a primeira missão a Marte. A tripulação, composta por astronautas de diversas nacionalidades, passou meses no espaço antes de aterrissar no Planeta Vermelho. Esta conquista marca um avanço significativo nas ambições da humanidade de explorar o sistema solar e estabelece um precedente para futuras missões interplanetárias.",
+            "createdAt": "28/11/2023"
+        }
+        
+    ]
+}
